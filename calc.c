@@ -1,6 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Function to process input character
+
+void processCharacter(char ch)
+{
+
+}
+
 int main(void)
 {
     char ch;
